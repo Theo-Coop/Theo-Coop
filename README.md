@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theo-Coop
-- 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning AI and Python
+- 👀 I’m interested in Python
+- 🌱 I’m currently using Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me theomantelcooper@gmail.com
 
