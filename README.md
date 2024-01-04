@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Theo-Coop
-- 👀 I’m interested in Python
 
 <!---
 Theo-Coop/Theo-Coop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
